@@ -1,2 +1,2 @@
 # bolsa-futuro-digital
-Aula sobre git e Github do curso Bolsa Futuro Digital.
+Atividades realizadas ao longo do curso de Back-End JS (programa Bolsa Futuro Digital).
